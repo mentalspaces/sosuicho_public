@@ -1,0 +1,17 @@
+_id: note/n2021-11-24-13-39-33-YGEAV09/c2021-10-20-05-05-21-_8JP7EY2
+condition:
+  locked: false
+date:
+  createdDate: '2021-10-20 05:05:21'
+  modifiedDate: '2021-11-24 16:31:31'
+geometry:
+  height: 783
+  width: 485
+  x: 1246
+  'y': 50
+  z: 24
+style:
+  backgroundColor: '#d1e1ff'
+  opacity: 1
+  uiColor: '#c9d8f5'
+  zoom: 0.85
